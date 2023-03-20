@@ -1,0 +1,15 @@
+.logo {
+    font-weight: 700;
+    font-size: 2em;
+    color: rgb(208, 218, 228);
+}
+
+.logo:hover {
+  background-color: rgb(230, 232, 235);
+  border-radius: 100%;
+}
+
+.nav-item:hover {
+  background-color: rgb(230, 232, 235);
+  border-radius: 30%;
+}
